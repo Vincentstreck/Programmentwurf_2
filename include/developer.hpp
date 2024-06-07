@@ -84,4 +84,4 @@ public:
     friend std::ostream& operator<<(std::ostream& os, const Developer& dev);
 };
 
-#endif // DEVELOPER_HPP_AB12CD34EF
+#endif // DEVELOPER_HPP

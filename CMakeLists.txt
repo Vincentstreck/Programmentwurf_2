@@ -39,4 +39,4 @@ FetchContent_MakeAvailable(googletest)
 enable_testing()
 
 # Add the tests subdirectory for testing
-add_subdirectory(tests)
+add_subdirectory(test)

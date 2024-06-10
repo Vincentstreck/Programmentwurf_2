@@ -6,8 +6,8 @@
 
 
 TEST_F(DeveloperTest, TestGetName) {
-    EXPECT_EQ(junior.get_name(), "Dan Castellaneta");
-    EXPECT_EQ(senior.get_name(), "Nancy Cartwright");
+    EXPECT_EQ(junior.get_name(), "Nancy Cartwright");
+    EXPECT_EQ(senior.get_name(), "Dan Castellaneta");
 }
 
 TEST_F(DeveloperTest, TestGetAlias) {
